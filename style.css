@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+h1 {
+    color: navy;
+}
+
+p {
+    color: darkgreen; 
+}
